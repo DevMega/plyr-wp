@@ -2,13 +2,13 @@
 
 /**
  *
- * @link              https://github.com/drrobotnik/plyr/
+ * @link              https://github.com/drrobotnik/plyr-wp/
  * @since             1.0.0
  * @package           Plyr
  *
  * @wordpress-plugin
  * Plugin Name:       WP Plyr
- * Plugin URI:        https://github.com/drrobotnik/plyr/
+ * Plugin URI:        https://github.com/drrobotnik/plyr-wp/
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
  * Author:            Brandon Lavigne
